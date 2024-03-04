@@ -1,0 +1,13 @@
+using System;
+
+namespace Problem5
+{
+    public class FileTransferActivity : IActivity
+    {
+        public void Execute()
+        {
+            // Simulate transferring a file
+            Console.WriteLine("Transferring a file...");
+        }
+    }
+}

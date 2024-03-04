@@ -1,0 +1,13 @@
+using System;
+
+namespace Problem5
+{
+    public class EmailActivity : IActivity
+    {
+        public void Execute()
+        {
+            // Simulate sending an email
+            Console.WriteLine("Sending an email...");
+        }
+    }
+}

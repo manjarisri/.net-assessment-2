@@ -1,0 +1,4 @@
+/home/knoldus/Manjari_assessment2/Problem5/obj/Debug/net8.0/Problem5.GeneratedMSBuildEditorConfig.editorconfig
+/home/knoldus/Manjari_assessment2/Problem5/obj/Debug/net8.0/Problem5.AssemblyInfoInputs.cache
+/home/knoldus/Manjari_assessment2/Problem5/obj/Debug/net8.0/Problem5.AssemblyInfo.cs
+/home/knoldus/Manjari_assessment2/Problem5/obj/Debug/net8.0/Problem5.csproj.CoreCompileInputs.cache
