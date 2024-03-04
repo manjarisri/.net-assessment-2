@@ -1,0 +1,14 @@
+/home/knoldus/Manjari_assessment2/Problem2/bin/Debug/net8.0/Problem2
+/home/knoldus/Manjari_assessment2/Problem2/bin/Debug/net8.0/Problem2.deps.json
+/home/knoldus/Manjari_assessment2/Problem2/bin/Debug/net8.0/Problem2.runtimeconfig.json
+/home/knoldus/Manjari_assessment2/Problem2/bin/Debug/net8.0/Problem2.dll
+/home/knoldus/Manjari_assessment2/Problem2/bin/Debug/net8.0/Problem2.pdb
+/home/knoldus/Manjari_assessment2/Problem2/obj/Debug/net8.0/Problem2.GeneratedMSBuildEditorConfig.editorconfig
+/home/knoldus/Manjari_assessment2/Problem2/obj/Debug/net8.0/Problem2.AssemblyInfoInputs.cache
+/home/knoldus/Manjari_assessment2/Problem2/obj/Debug/net8.0/Problem2.AssemblyInfo.cs
+/home/knoldus/Manjari_assessment2/Problem2/obj/Debug/net8.0/Problem2.csproj.CoreCompileInputs.cache
+/home/knoldus/Manjari_assessment2/Problem2/obj/Debug/net8.0/Problem2.dll
+/home/knoldus/Manjari_assessment2/Problem2/obj/Debug/net8.0/refint/Problem2.dll
+/home/knoldus/Manjari_assessment2/Problem2/obj/Debug/net8.0/Problem2.pdb
+/home/knoldus/Manjari_assessment2/Problem2/obj/Debug/net8.0/Problem2.genruntimeconfig.cache
+/home/knoldus/Manjari_assessment2/Problem2/obj/Debug/net8.0/ref/Problem2.dll
